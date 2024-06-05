@@ -21,8 +21,8 @@ public:
         }   
         vector<string>  ans;
       for (auto it : mp1) {
-            for (int i = 0; i < it.second; ++i) {
-                ans.push_back(std::string(1, it.first)); // Convert char to string before pushing
+            for (int i = 0; i < it.second; i++) {
+                ans.push_back(string(1, it.first)); // Convert char to string before pushing
             }
         }
         return ans;
