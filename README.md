@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adarshjha01/Leetcode-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarshjha01/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarshjha01/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarshjha01/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
