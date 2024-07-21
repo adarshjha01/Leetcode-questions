@@ -14,8 +14,8 @@ public:
         if (list1 == nullptr) return list2;
         if (list2 == nullptr) return list1;
         
-        ListNode* newHead = nullptr;
-        ListNode* curr = nullptr;
+        ListNode* newHead;
+        ListNode* curr;
 
         if (list1->val <= list2->val) {
             newHead = list1;
