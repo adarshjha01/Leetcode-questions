@@ -13,16 +13,19 @@ public:
         int count2=0;
         ListNode* temp1=headA;
         ListNode* temp2=headB;
+
         while(temp1){
             count1++;
             temp1=temp1->next;
         }
+
         temp1=headA;
         while(temp2){
             count2++;
             temp2=temp2->next;
         }
         temp2=headB;
+
         if(count1>count2){
             count1-=count2;
             while(count1>0){
@@ -30,6 +33,7 @@ public:
                 temp1=temp1->next;
             }
         }
+
         else if(count2>count1){
             count2-=count1;
             while(count2>0){
@@ -37,6 +41,7 @@ public:
                 temp2=temp2->next;
             }
         }
+        
         while(temp1){
             if(temp1==temp2) return temp1;
             temp1=temp1->next;
