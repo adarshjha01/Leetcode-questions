@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adarshjha01/Leetcode-questions/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/adarshjha01/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/adarshjha01/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/adarshjha01/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
