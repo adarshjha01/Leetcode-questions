@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adarshjha01/Leetcode-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -141,15 +142,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adarshjha01/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/adarshjha01/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [1720-crawler-log-folder](https://github.com/adarshjha01/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
