@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/adarshjha01/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adarshjha01/Leetcode-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/adarshjha01/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adarshjha01/Leetcode-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/adarshjha01/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/adarshjha01/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
