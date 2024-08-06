@@ -12,16 +12,14 @@
 class Solution {
 public:
 
-    void fun (TreeNode* root, int &maximum, int level){
-        if(root==nullptr) return ;
-        maximum= max(maximum, level);
-        if(root->left!=NULL) fun(root->left, maximum, level+1);
-        if(root->right!=NULL) fun(root->right, maximum, level+1);
+    int fun (TreeNode* root){
+       if(root==NULL) return 0;
+        int lh = fun(root->left);
+        int rh = fun(root->right);
+        return max(lh, rh) +1;
     }
 
     int maxDepth(TreeNode* root) {
-        int maximum=0;
-        fun(root, maximum, 1);
-        return maximum;    
+        return fun(root);
     }
 };
