@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adarshjha01/Leetcode-questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshjha01/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/adarshjha01/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/adarshjha01/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/adarshjha01/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshjha01/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/adarshjha01/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adarshjha01/Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/adarshjha01/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adarshjha01/Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adarshjha01/Leetcode-questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/adarshjha01/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/adarshjha01/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/adarshjha01/Leetcode-questions/tree/master/0455-assign-cookies) |
