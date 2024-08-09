@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int count=0;
+    int count;
     int result;
     void inOrderTraversal(TreeNode* root, int& k){
         if(root==NULL) return ;
