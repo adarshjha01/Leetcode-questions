@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/adarshjha01/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adarshjha01/Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/adarshjha01/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adarshjha01/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0090-subsets-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/adarshjha01/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshjha01/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshjha01/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adarshjha01/Leetcode-questions/tree/master/0783-search-in-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/adarshjha01/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
