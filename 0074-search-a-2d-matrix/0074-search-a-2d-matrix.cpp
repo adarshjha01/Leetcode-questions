@@ -5,6 +5,7 @@ public:
         int n = matrix[0].size();
         int start=0;
         int end=(m*n)-1;
+        // Binary search
         while(start <= end){
             int mid = start +(end-start)/2;
             if(matrix[mid/n][mid%n]==target) // catch to find mid element :)
