@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/adarshjha01/Leetcode-questions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adarshjha01/Leetcode-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/adarshjha01/Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adarshjha01/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1829-maximum-units-on-a-truck](https://github.com/adarshjha01/Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarshjha01/Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/adarshjha01/Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/0948-sort-an-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/adarshjha01/Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
