@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshjha01/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adarshjha01/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0303-range-sum-query-immutable](https://github.com/adarshjha01/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adarshjha01/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -352,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adarshjha01/Leetcode-questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/adarshjha01/Leetcode-questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/adarshjha01/Leetcode-questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/adarshjha01/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/adarshjha01/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
