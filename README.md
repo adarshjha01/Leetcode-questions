@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshjha01/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adarshjha01/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshjha01/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0303-range-sum-query-immutable](https://github.com/adarshjha01/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adarshjha01/Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adarshjha01/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/adarshjha01/Leetcode-questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/adarshjha01/Leetcode-questions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshjha01/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1642-water-bottles](https://github.com/adarshjha01/Leetcode-questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/adarshjha01/Leetcode-questions/tree/master/2645-pass-the-pillow) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/adarshjha01/Leetcode-questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshjha01/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshjha01/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/adarshjha01/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adarshjha01/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adarshjha01/Leetcode-questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
