@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshjha01/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/adarshjha01/Leetcode-questions/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/adarshjha01/Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/adarshjha01/Leetcode-questions/tree/master/2502-sort-the-people) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adarshjha01/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adarshjha01/Leetcode-questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/adarshjha01/Leetcode-questions/tree/master/1720-crawler-log-folder) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarshjha01/Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2502-sort-the-people](https://github.com/adarshjha01/Leetcode-questions/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adarshjha01/Leetcode-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -363,4 +365,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adarshjha01/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
