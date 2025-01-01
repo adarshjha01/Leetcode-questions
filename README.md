@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adarshjha01/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adarshjha01/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adarshjha01/Leetcode-questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/adarshjha01/Leetcode-questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/adarshjha01/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarshjha01/Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -368,5 +369,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adarshjha01/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/adarshjha01/Leetcode-questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
