@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2358-number-of-ways-to-split-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/adarshjha01/Leetcode-questions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adarshjha01/Leetcode-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adarshjha01/Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -371,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/adarshjha01/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/adarshjha01/Leetcode-questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2358-number-of-ways-to-split-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
