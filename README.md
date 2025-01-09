@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/adarshjha01/Leetcode-questions/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/adarshjha01/Leetcode-questions/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/1524-string-matching-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adarshjha01/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/adarshjha01/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshjha01/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adarshjha01/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adarshjha01/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adarshjha01/Leetcode-questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/adarshjha01/Leetcode-questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/adarshjha01/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adarshjha01/Leetcode-questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/adarshjha01/Leetcode-questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
