@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/adarshjha01/Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2145-grid-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adarshjha01/Leetcode-questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adarshjha01/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [2145-grid-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/adarshjha01/Leetcode-questions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Database
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/adarshjha01/Leetcode-questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adarshjha01/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/adarshjha01/Leetcode-questions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/adarshjha01/Leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
