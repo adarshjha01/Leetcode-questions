@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshjha01/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshjha01/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adarshjha01/Leetcode-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1876-map-of-highest-peak](https://github.com/adarshjha01/Leetcode-questions/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshjha01/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/adarshjha01/Leetcode-questions/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/adarshjha01/Leetcode-questions/tree/master/1829-maximum-units-on-a-truck) |
+| [1876-map-of-highest-peak](https://github.com/adarshjha01/Leetcode-questions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2145-grid-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/2145-grid-game) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adarshjha01/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [1876-map-of-highest-peak](https://github.com/adarshjha01/Leetcode-questions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/adarshjha01/Leetcode-questions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/adarshjha01/Leetcode-questions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Database
