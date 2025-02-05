@@ -1,6 +1,6 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        s = sorted(strs) #sorted doesnot modify original list unlike c++
+        s = sorted(strs) #sorted does not modify original list unlike c++
         first = s[0]
         last = s[-1]
         ans = ""
