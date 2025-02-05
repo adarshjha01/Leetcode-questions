@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshjha01/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/adarshjha01/Leetcode-questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adarshjha01/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adarshjha01/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adarshjha01/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adarshjha01/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/adarshjha01/Leetcode-questions/tree/master/2502-sort-the-people) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/adarshjha01/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshjha01/Leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarshjha01/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adarshjha01/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/adarshjha01/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adarshjha01/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarshjha01/Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/adarshjha01/Leetcode-questions/tree/master/0948-sort-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/adarshjha01/Leetcode-questions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/adarshjha01/Leetcode-questions/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adarshjha01/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/adarshjha01/Leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Indexed Tree
 |  |
